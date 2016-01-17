@@ -16,7 +16,11 @@ Pass all the test in Project "test-first-ruby-master"
 
 Hints:
 1. How to install bundle?
+
 Please chekck their website: http://bundler.io/
+
 2. How to run the test?
+
 For example, if you want test the 00_hello_spec.rb, you can run this command: 
+
 bundle exec rspec spec/00_hello_spec.rb
